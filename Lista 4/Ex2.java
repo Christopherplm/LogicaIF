@@ -20,7 +20,8 @@ public class Ex2 {
                 contador += 2;
             }
 
-        System.out.println();
         System.out.println("O resultado da soma dos números pares de 2 até " + number + " é: " + soma);
+        
+        in.close();
     }
 }

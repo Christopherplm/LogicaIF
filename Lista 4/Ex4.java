@@ -4,7 +4,7 @@ public class Ex4 {
     public static void main(String[] args) {
          Scanner in = new Scanner(System.in); 
 
-         char opcao = 'X';
+         char opcao = ' ';
          float saldo = 0, valor;
 
 
