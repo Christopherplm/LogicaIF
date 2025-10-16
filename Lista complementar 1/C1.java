@@ -16,5 +16,6 @@ public class C1 {
             }else {
                 System.out.println("Zero");
             }
+        in.close();
     }
 }

@@ -40,5 +40,6 @@ public class Ex10 {
         Sócio paga 70% do valor → valorIng × 0.7
         Desconto para o sócio é 30% do valor → valorIng × 0.3
          */
+        in.close();
     }
 }

@@ -15,5 +15,7 @@ public class Ex5 {
 
          float media = soma / 5;
          System.out.println(media);
+        in.close();
     }
+    
 }

@@ -18,6 +18,7 @@ public class C4 {
         } else {
             System.out.println("O maior número é: " + numMenor);
         }
+        in.close();
     }
 
 }

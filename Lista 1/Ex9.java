@@ -22,5 +22,6 @@ public class Ex9 {
         System.out.printf("Serão necessários %.2fkg de carne para o churrasco", gTotal / 1000);
         
 
+        in.close();
     }
 }

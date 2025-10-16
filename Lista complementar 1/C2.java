@@ -19,6 +19,7 @@ public class C2 {
                 System.out.println("Você é adulto!");
             }else { 
                 System.out.println("Você é idoso!");
+        in.close();
             }
     }
 }

@@ -10,6 +10,7 @@ public class Ex3 {
         valor = in.nextInt();
 
         System.out.println("O valor ao quadrado de: " + valor + " é: " + (valor * valor));
+        in.close();
 
     }
 }

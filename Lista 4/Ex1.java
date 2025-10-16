@@ -22,5 +22,7 @@ public class Ex1 {
             }
         System.out.println();
         System.out.println("O resultado da soma de 1 até " + number + " é: " + soma);
+        in.close();
     }
+    
 }

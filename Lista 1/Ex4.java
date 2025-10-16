@@ -12,5 +12,6 @@ public class Ex4 {
             altura = in.nextInt();
         // area = (base * altura) / 2.0;
         System.out.println("A area total do seu triangulo é: " + ((base * altura)  / 2));        
+        in.close();
     }
 }

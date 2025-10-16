@@ -27,6 +27,8 @@ public class Ex4 {
                 }else{
                     System.out.println("Letra inválida.");
                 }
+        in.close();
+
          }
     }
 }

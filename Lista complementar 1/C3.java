@@ -13,6 +13,7 @@ public class C3 {
             System.out.println("Numero par");
         }else {
             System.out.println("Número impar");
+        in.close();
         }
     }
 

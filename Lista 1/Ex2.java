@@ -12,5 +12,7 @@ public class Ex2 {
 
                 valorAcrescido = valorDeEntrada * 1.05;
                 System.out.println("o valor atualizado com 20% é: " + valorAcrescido);
+        in.close();
         }
+        
 }

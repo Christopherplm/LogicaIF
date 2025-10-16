@@ -29,5 +29,6 @@ public class C15 {
         // if (lados < 3 || lados > 5) {
         //     System.out.println("Figura desconhecida");
         // }
+        in.close();
     }
 }

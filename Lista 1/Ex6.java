@@ -13,5 +13,6 @@ public class Ex6 {
 
         media = (av1 + av2) / 2;
         System.out.println("Sua média foi: " + media);
+        in.close();
     }
 }

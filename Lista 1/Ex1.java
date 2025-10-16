@@ -15,5 +15,6 @@ public class Ex1 {
 
         System.out.println("O antecessor de " + numero + " é: " + antecessor);
 
+        in.close();
     }
 }

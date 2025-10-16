@@ -22,6 +22,8 @@ public class Ex3 {
         } else {
             System.out.println(number + " Não é primo");
         }
+        in.close();
+
     }   
 }
 

@@ -25,5 +25,6 @@ public class Ex8 {
         System.out.printf("Percentual de votos brancos: %.2f%%\n", perVotosBrancos);
         System.out.printf("Percentual de votos nulos: %.2f%%\n", perVotosNull);
         
+        in.close();
     }
 }

@@ -12,5 +12,6 @@ public class Ex5 {
         celsius = (fahrenheit - 32) * 5 / 9;
 
         System.out.println("Resultado de Fahrenheit para Celsius foi: " + celsius);
+        in.close();
     }
 }

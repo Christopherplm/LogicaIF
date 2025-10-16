@@ -15,5 +15,6 @@ public class Ex7 {
 
         // %.2f indica que o valor será mostrado com duas casas decimais
         System.out.printf("O tempo estimado da viagem é: %.2f horas\n", tempo);
+        in.close();
     }
 }
