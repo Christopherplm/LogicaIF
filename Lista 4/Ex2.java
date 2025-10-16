@@ -7,7 +7,7 @@ public class Ex2 {
         int contador = 2;
         int soma = 0;
 
-        System.out.println("Digite um número inteiro positivo. O programa irá somar todos os números PARES de 2 até esse valor:");
+        System.out.println("Digite um número inteiro positivo. O programa irá somar todos os números PARES de 2 até esse valor: ");
             int number = in.nextInt();
 
         System.out.print("Somando: ");
