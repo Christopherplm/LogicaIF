@@ -33,6 +33,8 @@ public class Desenho {
                 System.out.println();    
             }
         }
+        in.close();
     }
+    
 
 }
