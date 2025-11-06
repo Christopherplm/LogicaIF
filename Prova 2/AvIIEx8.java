@@ -4,10 +4,8 @@ public class AvIIEx8 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         
-        
         int linhas = in.nextInt();
         int colunas = in.nextInt();
-        
         
         for (int linha = 0; linha < linhas; linha++) {
             for (int coluna = 0; coluna < colunas; coluna++) {
@@ -17,7 +15,6 @@ public class AvIIEx8 {
                 } else {
                     System.out.print("   ");
                 }
-                
             }
             System.out.println();
         }
