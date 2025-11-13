@@ -8,8 +8,7 @@ public class AvIIEx2 {
 
         while (numero > 0) {
             numero = in.nextInt();
-        
-            boolean quadradoPerfeito = false;
+            boolean quadradoPerfeito = false; 
 
             for (int i = 1; i < numero;  i++) {
                 if (i * i == numero) {

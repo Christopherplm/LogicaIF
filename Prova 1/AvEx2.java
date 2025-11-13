@@ -4,7 +4,7 @@ public class AvEx2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-            int qntAtual, qntMax, qntMin, qntMedia; 
+        int qntAtual, qntMax, qntMin, qntMedia; 
 
         System.out.println("Informe a: Quantidade atual em estoque, quantidade máxima e a quantidade mínima: ");
 
