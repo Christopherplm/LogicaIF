@@ -1,5 +1,3 @@
-package Matrizes;
-
 public class Matriz5x5 {
     public static void main(String[] args) {
         

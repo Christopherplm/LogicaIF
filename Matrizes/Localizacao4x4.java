@@ -1,5 +1,3 @@
-package Matrizes;
-
 public class Localizacao4x4 {
     public static void main(String[] args) {
         

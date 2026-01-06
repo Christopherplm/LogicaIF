@@ -1,6 +1,4 @@
-package Matrizes;
-
-public class Localizacao4x4 {
+public class Localizaocao24x4 {
     public static void main(String[] args) {
         
         int [][] matriz = new int[4][4]; 
